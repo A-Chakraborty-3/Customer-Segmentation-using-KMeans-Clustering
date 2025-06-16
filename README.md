@@ -17,7 +17,7 @@ Source: Kaggle – Mall Customers Segmentation Data
 
 200 customer records
 
-Features used:
+#**Features used:**
 
 *Annual Income (k$)
 
