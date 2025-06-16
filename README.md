@@ -1,9 +1,9 @@
 # Customer-Segmentation-using-KMeans-Clustering
 
-📌 Project Overview
+**📌 Project Overview**
 This project applies unsupervised machine learning (KMeans Clustering) to perform customer segmentation based on their annual income and spending score. It helps businesses understand customer behavior and identify meaningful segments like high-value customers, frugal buyers, and potential targets for personalized marketing.
 
-🧰 Tools & Technologies
+**🧰 Tools & Technologies**
 Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
 KMeans Clustering from sklearn.cluster
@@ -12,7 +12,7 @@ Data Visualization with seaborn and matplotlib
 
 Jupyter Notebook / Google Colab for experimentation
 
-📂 Dataset
+**📂 Dataset**
 Source: Kaggle – Mall Customers Segmentation Data
 
 200 customer records
@@ -28,6 +28,7 @@ Features used:
 *Age
 
 **Project Workflow**
+
 *Data Preprocessing
 
 Checked for missing values & duplicates
